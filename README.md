@@ -28,7 +28,7 @@ crime-record-management-system/
 │   └── CrimeRecordServer.java
 │
 ├── client/
-│   ├── CrimeRecordClient.html
+│   ├── CrimeRecordClient.htmls
 │   └── enhanced.js
 │
 ├── README.md
